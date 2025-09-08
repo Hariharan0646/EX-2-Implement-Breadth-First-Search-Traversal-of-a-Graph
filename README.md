@@ -1,6 +1,7 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
 Name: *Hariharan S*
+
 Register Number: *2305001009*
 
 ### Aim:
@@ -85,6 +86,7 @@ BFS Traversal Order: ['A', 'B', 'C']
 
 ### Output:
 <img width="650" height="66" alt="image" src="https://github.com/user-attachments/assets/55964ef9-7405-4fc7-9257-f94bb6abfef0" />
+
 
 ### Result: 
 The above program executed successfully
